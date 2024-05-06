@@ -3,7 +3,6 @@
   "displayName": "colorize",
   "description": "A vscode extension to help visualize css colors in files.",
   "version": "0.11.1",
-  "publisher": "kamikillerto",
   "license": "Apache-2.0",
   "icon": "assets/logo.png",
   "engines": {
@@ -20,14 +19,6 @@
     "rgb",
     "preprocessor"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/kamikillerto/vscode-colorize.git"
-  },
-  "bugs": {
-    "url": "https://github.com/kamikillerto/vscode-colorize/issues"
-  },
-  "homepage": "https://github.com/kamikillerto/vscode-colorize/blob/master/README.MD",
   "galleryBanner": {
     "theme": "light"
   },
